@@ -1,2 +1,2 @@
 # Clock_in_c
-It will show your current time in clock format
+It will show the current time in clock format
